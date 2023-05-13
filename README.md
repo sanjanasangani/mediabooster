@@ -22,6 +22,7 @@ A new Flutter project.
 <img align="left" src="https://github.com/sanjanasangani/mediabooster/assets/131368083/28d904fe-b775-4802-9413-d4f11ede98ce" width="220px">
 <img src="https://github.com/sanjanasangani/mediabooster/assets/131368083/dc836bbf-c1be-47bd-b19d-e83914fca6be" width="220px">
 
+
 https://github.com/sanjanasangani/mediabooster/assets/131368083/9c93a329-a096-497b-bea9-85ad79693494
 
 
